@@ -28,8 +28,8 @@ I love exploring new technologies, mess around with them, and build applications
   
  **Tools**
  <ul>
-   <li> -Git, Gitbash,Gitlabs</li>
-   <li>-VsCode, Postman,SpringTool suite, IntelliJ</li>
+   <li> Git, Gitbash,Gitlabs</li>
+   <li>VsCode, Postman,SpringTool suite, IntelliJ</li>
  </ul>
 
  
