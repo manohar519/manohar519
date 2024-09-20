@@ -27,5 +27,5 @@ I love exploring new technologies, mess around with them, and build applications
 -  HTML5, Webpack, Babel
   
  **Tools**
-   -Git, Gitbash,Gitlabs
-   -VsCode, Postman,SpringTool suite, IntelliJ
+ -Git, Gitbash,Gitlabs
+ -VsCode, Postman,SpringTool suite, IntelliJ
