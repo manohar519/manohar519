@@ -1,5 +1,6 @@
 # Welcome, 🌏I am Manohar Chimata
 Well as you already know my name. Let me tell you something else. I started as a Java programmer and then switched to Web Development  with modern frontend libraries and frameworks, including React and Next.js. 
+
 And yes I love working with CSS and Javascript and I know how to center a div 😄 — currently working with The Stack 💣 - TypeScript, NextJS, TailwindCSS. Skilled in translating design into responsive and interactive web interfaces.
 
 I love exploring new technologies, mess around with them, and build applications for fun. Developer by passion and cricketer by hobby.
