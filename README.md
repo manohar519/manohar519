@@ -9,7 +9,7 @@ I love exploring new technologies, mess around with them, and build applications
   </a>
 
   <a href="https://x.com/imanohar19">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/100px-X_logo_2023.svg.png" alt="X (Twitter)" style="height:30px;width:30px;" />
+    <img src="https://th.bing.com/th/id/OIP.i2GZtEmMi7MXPFEYCy8UxwAAAA?w=212&h=212&c=8&rs=1&qlt=90&dpr=1.3&pid=3.1&rm=2" alt="X (Twitter)" style="height:30px;width:30px;" />
   </a>
   <a href="https://github.com/manohar519">
   <img src="https://th.bing.com/th?q=GitHub+Round+Logo&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247" style="height:30px;width:30px;"/></a>
