@@ -21,7 +21,10 @@ I love exploring new technologies, mess around with them, and build applications
 
 
 **Skills**
-- Front-End Development:JavaScript, React, React Hooks, React Router
-- Styling: Tailwind CSS, CSS3, Sass
-- Back-End Technology: Node.js, REST APIs
+- Front-End Development:JavaScript,TypeScript, React, NextJS, React Hooks, React Router,Redux
+- Styling: Tailwind CSS, CSS3,MaterialUI, ShadcnUi, Bootstrap
+- Back-End Technology: Node.js, REST APIs,Express,Mongoodb
 -  HTML5, Webpack, Babel
+ **Tools**
+   -Git, Gitbash,Gitlabs
+   -VsCode, Postman,SpringTool suite, IntelliJ
