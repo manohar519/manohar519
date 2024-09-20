@@ -18,7 +18,7 @@ I love exploring new technologies, mess around with them, and build applications
   </a
 </div>
 
-<h4>Fun Fact <p>I’m not a tech geek, just a problem solver 💻...</p></h4>  
+<div><h4>Fact about me</h4> <p>I’m not a tech geek, just a problem solver 💻...</p></div>
 
 **Skills**
 - Front-End Development:JavaScript,TypeScript, React, NextJS, React Hooks, React Router,Redux
